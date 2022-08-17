@@ -1,0 +1,26 @@
+
+body{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+h2{
+    font-size: 40px;
+}
+
+button{
+    background-color: yellow;
+    padding: 20px 30px;
+    font-size: 40px;
+    font-weight: bolder;
+    border-radius: 10px;
+}
+
+textarea{
+    display: block;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 20px;
+
+}
